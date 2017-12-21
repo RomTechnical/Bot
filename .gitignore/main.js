@@ -7,7 +7,7 @@ var randnum = 0;
 
 
 bot.on('ready', () => {
-    bot.user.setPresence({ game: {name: '||+help||', type : 0}})
+    bot.user.setPresence({ game: {name: '|+help|', type : 0}})
     console.log('Bot Ready !');
 });
 
