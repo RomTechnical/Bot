@@ -2,7 +2,7 @@
   "name": "bot",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "dependencies": {
     "discord.js": "^11.2.1",
     "lowdb": "^1.0.0"
